@@ -1,0 +1,30 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+.env/
+
+# API keys and secrets
+.env
+
+# Model files
+*.pkl
+*.joblib
+
+# Generated vector database
+models/vector_store/*
+!models/vector_store/.gitkeep
+
+# IDE
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# Operating system
+.DS_Store
+Thumbs.db
