@@ -1,4 +1,3 @@
-
 # CareerBridge AI
 
 AI-Powered Career Guidance, Job Role Matching and Skill Gap Analyzer.
